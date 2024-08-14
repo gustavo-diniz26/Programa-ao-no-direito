@@ -1,8 +1,16 @@
 Definição de alguns conceitos:
-NUVEM- A definição de nuvem, basicamente, é um termo utilizado para descrever uma rede global de servidores, cada um com uma função única. A nuvem não é uma entidade física, mas uma vasta rede de servidores remotos ao redor do globo
-que são conectados e operam como um único ecossistema.
-SERVIDORES- São computadores ou sistemas computacionais que atendem requisições de dispositivos clientes, através de uma ou mais redes (locais ou remotas), capazes de executar aplicações (programas), prover processamento e/ou capacidade de armazenamento 
-de dados.
+NUVEM- A definição de nuvem, basicamente, é um termo utilizado para descrever uma rede global de servidores, cada um com uma função única. A nuvem não é uma entidade física, mas uma vasta rede de servidores remotos ao redor do globoque são conectados e operam como um único ecossistema.
+SERVIDORES- São computadores ou sistemas computacionais que atendem requisições de dispositivos clientes, através de uma ou mais redes (locais ou remotas), capazes de executar aplicações (programas), prover processamento e/ou capacidade de armazenamento de dados.
 DADOS- A definição técnica desse conceito é “um dado é uma unidade básica de informação que é usada para representar um valor ou uma medida”. Os dados requerem interpretação para se tornarem informação.
 INFORMAÇÃO- a informação é a reunião dos dados processados e interpretados em um computador e que são capazes de gerar resultados para um determinado projeto.
-BANCO DE DADOS-  é uma coleção organizada de informações (ou dados) estruturadas, normalmente armazenadas eletronicamente em um sistema de computador.
+BANCO DE DADOS- é uma coleção organizada de informações (ou dados) estruturadas, normalmente armazenadas eletronicamente em um sistema de computador.
+ZERO-RATING- é a prática das operadoras de telecomunicações de distribuição de conteúdos sem o consumo das franquias de dados, o que poderia, em tese, ser caracterizado como um tratamento privilegiado e não isonômico em relação a outros conteúdos, ferindo, portanto, as regras de neutralidade da rede. 
+https://teletime.com.br/18/06/2024/zero-rating-e-neutralidade-nao-se-misturam-defende-entidade-de-internet/#:~:text=Zero%20rating%20%C3%A9%20a%20pr%C3%A1tica,portanto%2C%20as%20regras%20de%20neutralidade.
+NEUTRALIDADE DA REDE- De acordo com o princípio da neutralidade da rede, as operadoras de serviço de internet não podem discriminar o conteúdo que você está enviando ou recebendo. Por exemplo, elas não podem impedir que você envie um vídeo ou uma foto ou que sua internet seja melhor enviando um tipo de conteúdo ou outro. 
+https://www.jusbrasil.com.br/artigos/entenda-de-uma-vez-por-todas-o-conceito-de-neutralidade-da-rede/1839681291#:~:text=De%20acordo%20com%20o%20princ%C3%ADpio,tipo%20de%20conte%C3%BAdo%20ou%20outro.\
+ALGORITMO- Sâo os comandos em um passo a passo claro e lógico que conduzem as ações para a resolução de um problema ou para atingir determinado objetivo.
+https://blog.casadodesenvolvedor.com.br/logica-de-programacao/#:~:text=Enquanto%20a%20l%C3%B3gica%20de%20programa%C3%A7%C3%A3o,ou%20para%20atingir%20determinado%20objetivo.
+INTELIGENCIA ARTIFICIAL- A inteligência artificial (IA) é a capacidade que uma máquina para reproduzir competências semelhantes às humanas como é o caso do raciocínio, a aprendizagem, o planeamento e a criatividade. A IA permite que os sistemas técnicos percebam o ambiente que os rodeia, lidem com o que percebem e resolvam problemas, agindo no sentido de alcançar um objetivo específico. O computador recebe dados (já preparados ou recolhidos através dos seus próprios sensores, por exemplo, com o uso de uma câmara), processa-os e responde.
+https://www.europarl.europa.eu/topics/pt/article/20200827STO85804/o-que-e-a-inteligencia-artificial-e-como-funciona#:~:text=A%20intelig%C3%AAncia%20artificial%20(IA)%20%C3%A9,o%20planeamento%20e%20a%20criatividade.
+SISTEMA OPERACIONAL- O sistema operacional é um software, ou conjunto de softwares, cuja função é administrar e gerenciar os recursos de um sistema, desde componentes de hardware e sistemas de arquivos a programas de terceiros, estabelecendo a interface entre o computador e o usuário.
+https://tecnoblog.net/responde/o-que-e-um-sistema-operacional/
