@@ -1,0 +1,25 @@
+Uma estrutura de repetição
+
+i = 5
+while i < 9:
+    print(i)
+    i += 3
+
+Execução:
+Try programiz.pro
+5
+8
+
+=== Code Execution Successful ===
+
+Estrutura de tomada de decisão 
+x = 10
+if x > 15:    
+elif x > 5:
+
+Execução:
+Try programiz.pro
+x é maior que 5 mas menor ou igual a 15
+
+=== Code Execution Successful ===
+    
