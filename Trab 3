@@ -1,12 +1,12 @@
-Em Pyton
+Em Pyton: Liguagem de codigo simples, de uso geral e alto nivel de abstração. Seu paradigma de programaço pode ser estruturada ou POO. Estrategia de execução geralmente é interpretada.
 print("Olá, professor Eduardo")
 
-Em Java
+Em Java: Codigo bastante complexo, de baixo nivel de abstração. Seu paradigma de programçâo é penas POO. A estrategia de execução geralmente é compilada
 public class Main {
     public static void main(String[] args) {
         System.out.println("Olá, professor Eduardo");
     }
 }
 
-Em JavaScript
+Em JavaScript: Codigo tambem simples e alto nivel de abstração. Com paradigma de programação estruturada. estrategia de execução geralmente é interpretada.
 console.log("Olá, professor Eduardo");
