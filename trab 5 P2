@@ -1,0 +1,9 @@
+def imprimir_vogais(texto):
+    vogais = "aeiouAEIOU"
+    resultado = ""
+
+    for char in texto:
+        if char in vogais:
+            resultado += char
+
+    return resultado
